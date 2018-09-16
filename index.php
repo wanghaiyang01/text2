@@ -4,7 +4,7 @@
   */
 
 //define your token
-define("TOKEN", "weixin_first");//与服务器配置时的token需一致
+define("TOKEN", "weixinfirst");//与服务器配置时的token需一致
 $wechatObj = new wechatCallbackapiTest();
 $wechatObj->valid();
 
