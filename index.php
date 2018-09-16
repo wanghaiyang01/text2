@@ -4,7 +4,7 @@
    */
     
    //define your token
-   define("TOKEN", "weixinfirst");
+   define("TOKEN", "weixin_first");
    $wechatObj = new wechatCallbackapiTest();
    //$wechatObj->valid();//接口验证
  $wechatObj->responseMsg();//调用回复消息方法
